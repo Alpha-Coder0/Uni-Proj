@@ -31,7 +31,9 @@ The system uses **Swing for GUI** and **SQLite for database storage**, ensuring 
 
 ---
 ## 📁 Project Structure
+
 com.mycompany.staffmanagementsystem
+
 │
 ├── StaffManagementSystemApp.java # Main entry point
 ├── Employee.java # Employee model class
