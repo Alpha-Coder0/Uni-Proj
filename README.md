@@ -35,13 +35,28 @@ The system uses **Swing for GUI** and **SQLite for database storage**, ensuring 
 com.mycompany.staffmanagementsystem
 
 │
-├── StaffManagementSystemApp.java # Main entry point
-├── Employee.java # Employee model class
-├── EmployeeValidator.java # Input validation rules
-├── SalaryCalculator.java # Salary logic handling
-├── DatabaseHandler.java # SQLite database operations
-├── StaffManagementSystem.java # Core business logic
-└── StaffGUI.java # Graphical User Interface
+
+├──
+
+StaffManagementSystemApp.java # Main entry point
+├── 
+
+Employee.java # Employee model class
+├──
+
+EmployeeValidator.java # Input validation rules
+├──
+
+SalaryCalculator.java # Salary logic handling
+├──
+
+DatabaseHandler.java # SQLite database operations
+├── 
+
+StaffManagementSystem.java # Core business logic
+└──
+
+StaffGUI.java # Graphical User Interface
 ---
 ## 🗄 Database Schema
 
