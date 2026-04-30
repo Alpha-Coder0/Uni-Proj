@@ -44,12 +44,12 @@ com.mycompany.staffmanagementsystem
 
 ├──SalaryCalculator.java # Salary logic handling
 
-├──DatabaseHandler.java # SQLite database operations
+├──DataBaseHandler.java # SQLite database operations
 
 ├── StaffManagementSystem.java # Core business logic
 
 └──
-StaffGUI.java # Graphical User Interface
+StaffGui.java # Graphical User Interface
 ---
 ## 🗄 Database Schema
 
