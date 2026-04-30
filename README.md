@@ -36,26 +36,19 @@ com.mycompany.staffmanagementsystem
 
 │
 
-├──
+├──StaffManagementSystemApp.java # Main entry point
 
-StaffManagementSystemApp.java # Main entry point
-├── 
+├──Employee.java # Employee model class
 
-Employee.java # Employee model class
-├──
+├──EmployeeValidator.java # Input validation rules
 
-EmployeeValidator.java # Input validation rules
-├──
+├──SalaryCalculator.java # Salary logic handling
 
-SalaryCalculator.java # Salary logic handling
-├──
+├──DatabaseHandler.java # SQLite database operations
 
-DatabaseHandler.java # SQLite database operations
-├── 
+├── StaffManagementSystem.java # Core business logic
 
-StaffManagementSystem.java # Core business logic
 └──
-
 StaffGUI.java # Graphical User Interface
 ---
 ## 🗄 Database Schema
